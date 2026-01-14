@@ -1,88 +1,74 @@
 from typing import List
-from collections import defaultdict
 
 class Solution:
     def separateSquares(self, squares: List[List[int]]) -> float:
         if not squares:
             return 0.0
         
-        # Create events for horizontal sweep
+        # Create sweep events
         events = []
         for x, y, l in squares:
-            events.append((y, 0, x, x + l))      # Bottom edge (square starts)
-            events.append((y + l, 1, x, x + l))  # Top edge (square ends)
+            events.append((y, 1, x, x + l))      # Start of square
+            events.append((y + l, -1, x, x + l)) # End of square
         
         events.sort()
         
-        # Track cumulative area as we sweep upward
-        y_to_area_below = {}  # Maps y-coordinate to total area below that y
+        # First pass: compute strips with their areas
+        active_intervals = []
+        strips = []  # (y_start, height, union_width)
+        total_area = 0.0
+        prev_y = events[0][0]
         
-        active_intervals = []  # Currently active x-intervals
-        prev_y = None
-        cumulative_area = 0.0
-        
-        for y, event_type, x1, x2 in events:
-            if prev_y is not None and prev_y != y:
-                # Calculate width at this height
-                width = self.merge_intervals_length(active_intervals)
+        for y, event_type, x_start, x_end in events:
+            # Process strip between prev_y and current y
+            if y > prev_y:
+                width = self.get_union_width(active_intervals)
                 height = y - prev_y
-                cumulative_area += width * height
+                
+                if width > 0:
+                    strips.append((prev_y, height, width))
+                    total_area += height * width
             
-            y_to_area_below[y] = cumulative_area
-            
-            if event_type == 0:  # Start
-                active_intervals.append((x1, x2))
+            # Update active intervals
+            if event_type == 1:  # Start
+                active_intervals.append((x_start, x_end))
             else:  # End
-                active_intervals.remove((x1, x2))
+                active_intervals.remove((x_start, x_end))
             
             prev_y = y
         
-        # Total area
-        total_area = cumulative_area
+        # Second pass: find exact cut line
         target_area = total_area / 2.0
+        accumulated_area = 0.0
         
-        # Find the y-coordinate where area below equals target
-        y_coords = sorted(y_to_area_below.keys())
-        
-        for i in range(len(y_coords)):
-            y = y_coords[i]
-            area_below = y_to_area_below[y]
+        for y_start, height, width in strips:
+            strip_area = height * width
             
-            if abs(area_below - target_area) < 1e-9:
-                return float(y)
+            if accumulated_area + strip_area >= target_area:
+                # The cut line is within this strip
+                area_needed = target_area - accumulated_area
+                return y_start + (area_needed / width)
             
-            if area_below >= target_area:
-                if i == 0:
-                    return float(y)
-                
-                # Interpolate between y_coords[i-1] and y_coords[i]
-                y_prev = y_coords[i - 1]
-                area_prev = y_to_area_below[y_prev]
-                
-                if abs(area_below - area_prev) < 1e-9:
-                    return float(y)
-                
-                # Linear interpolation
-                t = (target_area - area_prev) / (area_below - area_prev)
-                result = y_prev + t * (y - y_prev)
-                return float(result)
+            accumulated_area += strip_area
         
-        return float(y_coords[-1])
+        return 0.0
     
-    def merge_intervals_length(self, intervals):
+    def get_union_width(self, intervals):
         if not intervals:
             return 0
         
         sorted_intervals = sorted(intervals)
-        total = 0
-        current_start, current_end = sorted_intervals[0]
+        union_length = 0
+        current_end = float('-inf')
         
-        for start, end in sorted_intervals[1:]:
-            if start <= current_end:
-                current_end = max(current_end, end)
-            else:
-                total += current_end - current_start
-                current_start, current_end = start, end
+        for start, end in sorted_intervals:
+            if start >= current_end:
+                # No overlap, add full length
+                union_length += (end - start)
+                current_end = end
+            elif end > current_end:
+                # Partial overlap, extend current end
+                union_length += (end - current_end)
+                current_end = end
         
-        total += current_end - current_start
-        return total
+        return union_length
