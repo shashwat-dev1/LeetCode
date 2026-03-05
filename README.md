@@ -49,4 +49,5 @@ This repository is created to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shashwat-dev1/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 <!---LeetCode Topics End-->
