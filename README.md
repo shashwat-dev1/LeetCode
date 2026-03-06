@@ -50,4 +50,5 @@ This repository is created to:
 | ------- | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shashwat-dev1/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shashwat-dev1/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 <!---LeetCode Topics End-->
