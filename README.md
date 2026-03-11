@@ -41,6 +41,7 @@ This repository is created to:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/shashwat-dev1/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
