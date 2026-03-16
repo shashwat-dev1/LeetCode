@@ -41,6 +41,7 @@ This repository is created to:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [1622-fancy-sequence](https://github.com/shashwat-dev1/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -109,4 +110,12 @@ This repository is created to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
