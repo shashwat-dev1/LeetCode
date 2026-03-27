@@ -28,6 +28,7 @@ This repository is created to:
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shashwat-dev1/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/shashwat-dev1/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shashwat-dev1/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shashwat-dev1/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shashwat-dev1/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shashwat-dev1/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -48,6 +49,7 @@ This repository is created to:
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shashwat-dev1/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/shashwat-dev1/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shashwat-dev1/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shashwat-dev1/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shashwat-dev1/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -59,6 +61,7 @@ This repository is created to:
 | [1622-fancy-sequence](https://github.com/shashwat-dev1/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shashwat-dev1/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shashwat-dev1/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -69,6 +72,7 @@ This repository is created to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shashwat-dev1/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
