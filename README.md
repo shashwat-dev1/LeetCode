@@ -82,6 +82,7 @@ This repository is created to:
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/shashwat-dev1/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shashwat-dev1/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shashwat-dev1/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -90,6 +91,7 @@ This repository is created to:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/shashwat-dev1/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shashwat-dev1/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shashwat-dev1/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
