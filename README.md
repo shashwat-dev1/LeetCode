@@ -57,6 +57,7 @@ This repository is created to:
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shashwat-dev1/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shashwat-dev1/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/shashwat-dev1/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shashwat-dev1/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -115,6 +116,7 @@ This repository is created to:
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shashwat-dev1/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shashwat-dev1/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shashwat-dev1/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shashwat-dev1/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shashwat-dev1/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -124,6 +126,7 @@ This repository is created to:
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/shashwat-dev1/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +269,7 @@ This repository is created to:
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
