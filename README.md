@@ -28,6 +28,7 @@ This repository is created to:
 | [0874-walking-robot-simulation](https://github.com/shashwat-dev1/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1306-jump-game-iii](https://github.com/shashwat-dev1/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/shashwat-dev1/LeetCode/tree/main/1340-jump-game-v/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-dev1/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shashwat-dev1/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -233,6 +234,7 @@ This repository is created to:
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-dev1/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shashwat-dev1/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Design
@@ -249,6 +251,7 @@ This repository is created to:
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1340-jump-game-v](https://github.com/shashwat-dev1/LeetCode/tree/main/1340-jump-game-v/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-dev1/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shashwat-dev1/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
