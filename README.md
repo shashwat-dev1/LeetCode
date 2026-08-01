@@ -24,6 +24,7 @@ This repository is created to:
 | [0033-search-in-rotated-sorted-array](https://github.com/shashwat-dev1/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/shashwat-dev1/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/shashwat-dev1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shashwat-dev1/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1306-jump-game-iii](https://github.com/shashwat-dev1/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -113,6 +114,7 @@ This repository is created to:
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0396-rotate-function](https://github.com/shashwat-dev1/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/shashwat-dev1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1622-fancy-sequence](https://github.com/shashwat-dev1/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
@@ -177,6 +179,7 @@ This repository is created to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/shashwat-dev1/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/shashwat-dev1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shashwat-dev1/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/shashwat-dev1/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shashwat-dev1/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -281,6 +284,7 @@ This repository is created to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0486-predict-the-winner](https://github.com/shashwat-dev1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,4 +351,8 @@ This repository is created to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/shashwat-dev1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
