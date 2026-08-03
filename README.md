@@ -53,6 +53,7 @@ This repository is created to:
 | [2573-find-the-string-with-lcp](https://github.com/shashwat-dev1/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2615-sum-of-distances](https://github.com/shashwat-dev1/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/shashwat-dev1/LeetCode/tree/main/2751-robot-collisions/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shashwat-dev1/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shashwat-dev1/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shashwat-dev1/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -102,6 +103,7 @@ This repository is created to:
 | [1914-cyclically-rotating-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/shashwat-dev1/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shashwat-dev1/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shashwat-dev1/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shashwat-dev1/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -248,6 +250,7 @@ This repository is created to:
 | [0033-search-in-rotated-sorted-array](https://github.com/shashwat-dev1/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shashwat-dev1/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shashwat-dev1/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shashwat-dev1/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/shashwat-dev1/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -257,6 +260,7 @@ This repository is created to:
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-dev1/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shashwat-dev1/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -310,6 +314,7 @@ This repository is created to:
 | ------- | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/shashwat-dev1/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,6 +349,7 @@ This repository is created to:
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/shashwat-dev1/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shashwat-dev1/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
