@@ -19,4 +19,3 @@ class Solution:
 
         d = maxDiff(0)
         return self.s[(d > 0) - (d < 0) + 1]
-        
