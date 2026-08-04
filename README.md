@@ -75,6 +75,7 @@ This repository is created to:
 | [3660-jump-game-ix](https://github.com/shashwat-dev1/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shashwat-dev1/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/shashwat-dev1/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shashwat-dev1/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -223,6 +224,7 @@ This repository is created to:
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shashwat-dev1/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3731-find-missing-elements](https://github.com/shashwat-dev1/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shashwat-dev1/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Backtracking
@@ -288,6 +290,7 @@ This repository is created to:
 | [3536-maximum-product-of-two-digits](https://github.com/shashwat-dev1/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shashwat-dev1/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shashwat-dev1/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3731-find-missing-elements](https://github.com/shashwat-dev1/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
