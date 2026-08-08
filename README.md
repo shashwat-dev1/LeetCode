@@ -90,6 +90,7 @@ This repository is created to:
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shashwat-dev1/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shashwat-dev1/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shashwat-dev1/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -183,6 +184,7 @@ This repository is created to:
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shashwat-dev1/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/shashwat-dev1/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shashwat-dev1/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shashwat-dev1/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -203,6 +205,7 @@ This repository is created to:
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/shashwat-dev1/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shashwat-dev1/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shashwat-dev1/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3660-jump-game-ix](https://github.com/shashwat-dev1/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shashwat-dev1/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -308,6 +311,7 @@ This repository is created to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shashwat-dev1/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shashwat-dev1/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/shashwat-dev1/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
