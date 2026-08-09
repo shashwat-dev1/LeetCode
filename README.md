@@ -28,6 +28,7 @@ This repository is created to:
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shashwat-dev1/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/shashwat-dev1/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1306-jump-game-iii](https://github.com/shashwat-dev1/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/shashwat-dev1/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/shashwat-dev1/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
@@ -125,6 +126,7 @@ This repository is created to:
 | [0486-predict-the-winner](https://github.com/shashwat-dev1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/shashwat-dev1/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shashwat-dev1/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1622-fancy-sequence](https://github.com/shashwat-dev1/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
@@ -195,6 +197,7 @@ This repository is created to:
 | [0396-rotate-function](https://github.com/shashwat-dev1/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/shashwat-dev1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/shashwat-dev1/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shashwat-dev1/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/shashwat-dev1/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/shashwat-dev1/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
@@ -242,6 +245,7 @@ This repository is created to:
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shashwat-dev1/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/shashwat-dev1/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -385,9 +389,18 @@ This repository is created to:
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/shashwat-dev1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/shashwat-dev1/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shashwat-dev1/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/shashwat-dev1/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
