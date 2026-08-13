@@ -49,6 +49,7 @@ This repository is created to:
 | [1980-find-unique-binary-string](https://github.com/shashwat-dev1/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shashwat-dev1/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shashwat-dev1/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shashwat-dev1/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shashwat-dev1/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/shashwat-dev1/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -180,6 +181,7 @@ This repository is created to:
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shashwat-dev1/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/shashwat-dev1/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shashwat-dev1/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shashwat-dev1/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shashwat-dev1/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shashwat-dev1/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/shashwat-dev1/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -291,6 +293,7 @@ This repository is created to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/shashwat-dev1/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shashwat-dev1/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,4 +425,8 @@ This repository is created to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/shashwat-dev1/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shashwat-dev1/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
