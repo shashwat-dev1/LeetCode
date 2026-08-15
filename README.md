@@ -21,6 +21,7 @@ This repository is created to:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shashwat-dev1/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/shashwat-dev1/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/shashwat-dev1/LeetCode/tree/main/0396-rotate-function/) | Medium |
@@ -274,6 +275,7 @@ This repository is created to:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shashwat-dev1/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/shashwat-dev1/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shashwat-dev1/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -358,6 +360,7 @@ This repository is created to:
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shashwat-dev1/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Trie
