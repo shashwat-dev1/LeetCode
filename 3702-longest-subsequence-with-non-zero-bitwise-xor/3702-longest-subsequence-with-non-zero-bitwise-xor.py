@@ -7,3 +7,4 @@ class Solution:
             tot ^= n
 
         return nz * (len(nums) - (not tot))
+        
