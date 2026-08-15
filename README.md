@@ -173,6 +173,7 @@ This repository is created to:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shashwat-dev1/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/shashwat-dev1/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/shashwat-dev1/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shashwat-dev1/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -203,6 +204,7 @@ This repository is created to:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shashwat-dev1/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0396-rotate-function](https://github.com/shashwat-dev1/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/shashwat-dev1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/shashwat-dev1/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -332,6 +334,7 @@ This repository is created to:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shashwat-dev1/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shashwat-dev1/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shashwat-dev1/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/shashwat-dev1/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -437,4 +440,8 @@ This repository is created to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashwat-dev1/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shashwat-dev1/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
