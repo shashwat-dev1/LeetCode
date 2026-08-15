@@ -127,6 +127,7 @@ This repository is created to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/shashwat-dev1/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0396-rotate-function](https://github.com/shashwat-dev1/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/shashwat-dev1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
