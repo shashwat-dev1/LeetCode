@@ -48,6 +48,7 @@ This repository is created to:
 | [1914-cyclically-rotating-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-dev1/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/shashwat-dev1/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2029-stone-game-ix](https://github.com/shashwat-dev1/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shashwat-dev1/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashwat-dev1/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -91,6 +92,7 @@ This repository is created to:
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shashwat-dev1/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [2029-stone-game-ix](https://github.com/shashwat-dev1/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shashwat-dev1/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/shashwat-dev1/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -139,6 +141,7 @@ This repository is created to:
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-dev1/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/shashwat-dev1/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shashwat-dev1/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -402,6 +405,7 @@ This repository is created to:
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2029-stone-game-ix](https://github.com/shashwat-dev1/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -417,6 +421,7 @@ This repository is created to:
 | [1140-stone-game-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shashwat-dev1/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/shashwat-dev1/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/shashwat-dev1/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -426,15 +431,18 @@ This repository is created to:
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/shashwat-dev1/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/shashwat-dev1/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/shashwat-dev1/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/shashwat-dev1/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/shashwat-dev1/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/shashwat-dev1/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
