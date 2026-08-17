@@ -36,6 +36,7 @@ This repository is created to:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashwat-dev1/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1563-stone-game-v](https://github.com/shashwat-dev1/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shashwat-dev1/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shashwat-dev1/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shashwat-dev1/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -137,6 +138,7 @@ This repository is created to:
 | [1140-stone-game-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shashwat-dev1/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/shashwat-dev1/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/shashwat-dev1/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1622-fancy-sequence](https://github.com/shashwat-dev1/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shashwat-dev1/LeetCode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -219,6 +221,7 @@ This repository is created to:
 | [1340-jump-game-v](https://github.com/shashwat-dev1/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/shashwat-dev1/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/shashwat-dev1/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/shashwat-dev1/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shashwat-dev1/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/shashwat-dev1/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shashwat-dev1/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -421,6 +424,7 @@ This repository is created to:
 | [1140-stone-game-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shashwat-dev1/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/shashwat-dev1/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/shashwat-dev1/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/shashwat-dev1/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
