@@ -87,6 +87,7 @@ This repository is created to:
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shashwat-dev1/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shashwat-dev1/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +284,7 @@ This repository is created to:
 | [3225-maximum-score-from-grid-operations](https://github.com/shashwat-dev1/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shashwat-dev1/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/shashwat-dev1/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
